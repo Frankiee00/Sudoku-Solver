@@ -1,2 +1,9 @@
 # Sudoku-Solver
-Using Python, we are able to solve any 3x3 Sudoku game, so 9 squares in total with 9 smaller squares in each larger square. We used recursive algo and backtracking in order to solve. 
+
+Architected with Pycharm, Python, and Pygame
+
+Developed for anyone having trouble solving a Sudoku puzzle
+
+Implemented Pygame features to create a GUI for users to play on.
+
+Implemented recursion and backtracking algorithms
